@@ -1,0 +1,38 @@
+===========
+Depth = 1
+Average Accuracy = 92.85714285714285
+Standard Deviation for depth = 1 is 4.339885697575849
+===========
+Depth = 2
+Average Accuracy = 90.2145473574045
+Standard Deviation for depth = 2 is 9.529989197001793
+===========
+Depth = 3
+Average Accuracy = 92.2553636839351
+Standard Deviation for depth = 3 is 4.295093145781351
+===========
+Depth = 4
+Average Accuracy = 92.70015698587127
+Standard Deviation for depth = 4 is 1.9810721293758178
+===========
+Depth = 5
+Average Accuracy = 92.51700680272108
+Standard Deviation for depth = 5 is 2.3888460932523916
+===========
+Depth = 10
+Average Accuracy = 92.2815279958137
+Standard Deviation for depth = 10 is 2.437778235770228
+===========
+Depth = 15
+Average Accuracy = 92.2815279958137
+Standard Deviation for depth = 15 is 2.437778235770228
+===========
+Depth = 20
+Average Accuracy = 92.2815279958137
+Standard Deviation for depth = 20 is 2.437778235770228
+Best Accuracy = 92.85714285714285 at depth = 1
+Optimum depth = 1
+===========
+Accuracy = 93.57848518111965
+Error = 6.421514818880354
+Depth of the tree is = 1
